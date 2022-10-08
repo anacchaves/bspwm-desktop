@@ -1,0 +1,5 @@
+2022/09/24-21:03:29.478 2dfc Creating DB /home/ana/.config/discord/Local Storage/leveldb since it was missing.
+2022/09/24-21:03:29.487 2dfc Reusing MANIFEST /home/ana/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/09/24-21:06:30.454 2dff Level-0 table #5: started
+2022/09/24-21:06:30.463 2dff Level-0 table #5: 505094 bytes OK
+2022/09/24-21:06:30.472 2dff Delete type=0 #3

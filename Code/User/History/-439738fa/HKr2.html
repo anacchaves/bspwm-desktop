@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.7.10/dist/vue.js"></script>
+  <title>vue 3 basics</title>
+</head>
+<body>
+  <div id="app">
+    {{ greeting }}
+  </div>
+  
+  <script>
+    let app = Vue.createApp({
+      data: function() {
+        return {
+          greeting: "hello vue 3!"
+        }
+      }
+    })
+    app.mount("app")
+  </script>
+</body>
+</html>

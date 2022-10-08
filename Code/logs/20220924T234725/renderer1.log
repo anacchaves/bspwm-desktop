@@ -1,0 +1,45 @@
+[2022-09-24 23:48:46.794] [renderer1] [info] Settings Sync: Updated current session ad9c0108-b54c-463f-9b45-d24aaea92e17
+[2022-09-24 23:49:01.238] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59484)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59150
+	at Generator.next (<anonymous>)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58687
+	at new Promise (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58432)
+	at t.checkThemeStatus (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59080)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52591
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-24 23:49:01.239] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:56010)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53166)
+	at t.detectConfigChanges (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52996)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52686
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-24 23:49:02.262] [renderer1] [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.settingsSync
+[2022-09-24 23:49:06.649] [renderer1] [info] [lifecycle]: Shutdown was prevented (id: veto.settingsSync)
+[2022-09-24 23:49:25.932] [renderer1] [error] Cannot uninstall 'Dart' extension. 'Flutter' extension depends on this.: Internal: Cannot uninstall 'Dart' extension. 'Flutter' extension depends on this.
+    at V.uninstallExtension (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:81:106677)
+[2022-09-24 23:50:13.369] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59484)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59150
+	at Generator.next (<anonymous>)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58687
+	at new Promise (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58432)
+	at t.checkThemeStatus (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59080)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52591
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-24 23:50:13.370] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:56010)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53166)
+	at t.detectConfigChanges (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52996)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52686
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)

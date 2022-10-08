@@ -1,0 +1,7 @@
+[2022-09-28 19:32:16.745] [main] [info] update#setState idle
+[2022-09-28 19:32:18.363] [main] [info] Starting extension host with pid 4823 (fork() took 8 ms).
+[2022-09-28 19:32:46.758] [main] [info] update#setState checking for updates
+[2022-09-28 19:32:46.982] [main] [info] update#setState idle
+[2022-09-28 20:32:46.858] [main] [info] update#setState checking for updates
+[2022-09-28 20:32:47.683] [main] [info] update#setState idle
+[2022-09-28 20:51:50.379] [main] [info] Extension host with pid 4823 exited with code: null, signal: SIGTERM.

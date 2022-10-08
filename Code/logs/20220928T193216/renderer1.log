@@ -1,0 +1,45 @@
+[2022-09-28 19:32:19.778] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at m (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59484)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59150
+	at Generator.next (<anonymous>)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58687
+	at new Promise (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:58432)
+	at t.checkThemeStatus (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:59080)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52591
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-28 19:32:19.778] [renderer1] [error] [Extension Host] TypeError: Cannot read properties of undefined (reading 'packageJSON')
+	at t.getConfigProperties (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:56010)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:53166)
+	at t.detectConfigChanges (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52996)
+	at /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52686
+	at Generator.next (<anonymous>)
+	at a (/home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5/dist/extension.js:1:52084)
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-09-28 19:39:26.633] [renderer1] [error] Unknown webview handle:09ed0f8a-470d-4159-bcca-933417eb935c: Error: Unknown webview handle:09ed0f8a-470d-4159-bcca-933417eb935c
+    at za.getWebview (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1709:77620)
+    at za.$setHtml (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1709:76528)
+    at m._doInvokeHandler (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1716:13079)
+    at m._invokeHandler (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1716:12761)
+    at m._receiveRequest (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1716:11531)
+    at m._receiveOneMessage (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1716:10233)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1716:8340
+    at S.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at d.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:19365)
+    at g._receiveMessage (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:24177)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:21547
+    at S.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:145)
+    at l.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:2266)
+    at a.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:1844)
+    at a.acceptChunk (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:16196)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:15326
+    at Socket.E (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:545:27088)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:190:23)

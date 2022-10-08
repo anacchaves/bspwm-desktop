@@ -1,0 +1,206 @@
+[2022-09-24 23:47:27.526] [sharedprocess] [info] Starting worker process with pid 16473 (type: fileWatcher, window: 1).
+[2022-09-24 23:48:51.478] [sharedprocess] [info] Getting Manifest... naumovs.color-highlight
+[2022-09-24 23:48:51.482] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-09-24 23:48:51.484] [sharedprocess] [info] Getting Manifest... github.copilot
+[2022-09-24 23:48:51.486] [sharedprocess] [info] Getting Manifest... mhutchie.git-graph
+[2022-09-24 23:48:51.488] [sharedprocess] [info] Getting Manifest... cjhowe7.laravel-blade
+[2022-09-24 23:48:51.489] [sharedprocess] [info] Getting Manifest... wheredoesyourmindgo.gruvbox-concoctis
+[2022-09-24 23:48:51.491] [sharedprocess] [info] Getting Manifest... codingyu.laravel-goto-view
+[2022-09-24 23:48:51.492] [sharedprocess] [info] Getting Manifest... ms-azuretools.vscode-docker
+[2022-09-24 23:48:51.511] [sharedprocess] [info] Getting Manifest... editorconfig.editorconfig
+[2022-09-24 23:48:51.513] [sharedprocess] [info] Getting Manifest... mikestead.dotenv
+[2022-09-24 23:48:51.515] [sharedprocess] [info] Getting Manifest... naoray.laravel-goto-components
+[2022-09-24 23:48:51.517] [sharedprocess] [info] Getting Manifest... shufo.vscode-blade-formatter
+[2022-09-24 23:48:51.522] [sharedprocess] [info] Getting Manifest... ritwickdey.liveserver
+[2022-09-24 23:48:51.523] [sharedprocess] [info] Getting Manifest... dart-code.flutter
+[2022-09-24 23:48:51.524] [sharedprocess] [info] Getting Manifest... onecentlin.laravel-extension-pack
+[2022-09-24 23:48:51.526] [sharedprocess] [info] Getting Manifest... bmewburn.vscode-intelephense-client
+[2022-09-24 23:48:51.527] [sharedprocess] [info] Getting Manifest... sainnhe.gruvbox-material
+[2022-09-24 23:48:51.528] [sharedprocess] [info] Getting Manifest... jdinhlife.gruvbox
+[2022-09-24 23:48:51.529] [sharedprocess] [info] Getting Manifest... amiralizadeh9480.laravel-extra-intellisense
+[2022-09-24 23:48:51.531] [sharedprocess] [info] Getting Manifest... jonathanharty.gruvbox-material-icon-theme
+[2022-09-24 23:48:51.832] [sharedprocess] [info] Getting Manifest... eamodio.gitlens
+[2022-09-24 23:48:51.881] [sharedprocess] [info] Getting Manifest... dart-code.dart-code
+[2022-09-24 23:48:53.060] [sharedprocess] [info] Installing extension: codingyu.laravel-goto-view
+[2022-09-24 23:48:53.062] [sharedprocess] [info] Installing the extension without checking dependencies and pack codingyu.laravel-goto-view
+[2022-09-24 23:48:53.102] [sharedprocess] [info] Installing extension: wheredoesyourmindgo.gruvbox-concoctis
+[2022-09-24 23:48:53.102] [sharedprocess] [info] Installing the extension without checking dependencies and pack wheredoesyourmindgo.gruvbox-concoctis
+[2022-09-24 23:48:53.103] [sharedprocess] [info] Installing extension: editorconfig.editorconfig
+[2022-09-24 23:48:53.103] [sharedprocess] [info] Installing the extension without checking dependencies and pack editorconfig.editorconfig
+[2022-09-24 23:48:53.115] [sharedprocess] [info] Installing extension: mikestead.dotenv
+[2022-09-24 23:48:53.115] [sharedprocess] [info] Installing the extension without checking dependencies and pack mikestead.dotenv
+[2022-09-24 23:48:53.116] [sharedprocess] [info] Installing extension: ritwickdey.liveserver
+[2022-09-24 23:48:53.116] [sharedprocess] [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+[2022-09-24 23:48:53.117] [sharedprocess] [info] Installing extension: naoray.laravel-goto-components
+[2022-09-24 23:48:53.118] [sharedprocess] [info] Installing the extension without checking dependencies and pack naoray.laravel-goto-components
+[2022-09-24 23:48:53.119] [sharedprocess] [info] Installing extension: dart-code.flutter
+[2022-09-24 23:48:53.119] [sharedprocess] [info] Installing the extension without checking dependencies and pack dart-code.flutter
+[2022-09-24 23:48:53.121] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2022-09-24 23:48:53.121] [sharedprocess] [info] Installing the extension without checking dependencies and pack ms-azuretools.vscode-docker
+[2022-09-24 23:48:53.122] [sharedprocess] [info] Installing extension: dart-code.dart-code
+[2022-09-24 23:48:53.122] [sharedprocess] [info] Installing the extension without checking dependencies and pack dart-code.dart-code
+[2022-09-24 23:48:53.151] [sharedprocess] [info] Installing extension: jdinhlife.gruvbox
+[2022-09-24 23:48:53.151] [sharedprocess] [info] Installing the extension without checking dependencies and pack jdinhlife.gruvbox
+[2022-09-24 23:48:53.161] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2022-09-24 23:48:53.161] [sharedprocess] [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+[2022-09-24 23:48:53.162] [sharedprocess] [info] Installing extension: sainnhe.gruvbox-material
+[2022-09-24 23:48:53.162] [sharedprocess] [info] Installing the extension without checking dependencies and pack sainnhe.gruvbox-material
+[2022-09-24 23:48:53.163] [sharedprocess] [info] Installing extension: onecentlin.laravel-extension-pack
+[2022-09-24 23:48:53.163] [sharedprocess] [info] Installing the extension without checking dependencies and pack onecentlin.laravel-extension-pack
+[2022-09-24 23:48:53.164] [sharedprocess] [info] Installing extension: cjhowe7.laravel-blade
+[2022-09-24 23:48:53.164] [sharedprocess] [info] Installing the extension without checking dependencies and pack cjhowe7.laravel-blade
+[2022-09-24 23:48:53.165] [sharedprocess] [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+[2022-09-24 23:48:53.165] [sharedprocess] [info] Installing the extension without checking dependencies and pack amiralizadeh9480.laravel-extra-intellisense
+[2022-09-24 23:48:53.166] [sharedprocess] [info] Installing extension: shufo.vscode-blade-formatter
+[2022-09-24 23:48:53.166] [sharedprocess] [info] Installing the extension without checking dependencies and pack shufo.vscode-blade-formatter
+[2022-09-24 23:48:53.168] [sharedprocess] [info] Installing extension: mhutchie.git-graph
+[2022-09-24 23:48:53.169] [sharedprocess] [info] Installing the extension without checking dependencies and pack mhutchie.git-graph
+[2022-09-24 23:48:53.170] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2022-09-24 23:48:53.170] [sharedprocess] [info] Installing the extension without checking dependencies and pack bmewburn.vscode-intelephense-client
+[2022-09-24 23:48:53.171] [sharedprocess] [info] Installing extension: jonathanharty.gruvbox-material-icon-theme
+[2022-09-24 23:48:53.171] [sharedprocess] [info] Installing the extension without checking dependencies and pack jonathanharty.gruvbox-material-icon-theme
+[2022-09-24 23:48:53.172] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-09-24 23:48:53.172] [sharedprocess] [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+[2022-09-24 23:48:53.173] [sharedprocess] [info] Installing extension: github.copilot
+[2022-09-24 23:48:53.173] [sharedprocess] [info] Installing the extension without checking dependencies and pack github.copilot
+[2022-09-24 23:48:53.225] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2022-09-24 23:48:53.225] [sharedprocess] [info] Installing the extension without checking dependencies and pack naumovs.color-highlight
+[2022-09-24 23:48:54.833] [sharedprocess] [info] Downloaded extension: codingyu.laravel-goto-view /home/ana/.config/Code/CachedExtensionVSIXs/codingyu.laravel-goto-view-1.3.7
+[2022-09-24 23:48:54.863] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.6b975990-58c4-42d0-8486-c6d81521c6fb: codingyu.laravel-goto-view
+[2022-09-24 23:48:54.867] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/codingyu.laravel-goto-view-1.3.7
+[2022-09-24 23:48:54.868] [sharedprocess] [info] Extracting completed. codingyu.laravel-goto-view
+[2022-09-24 23:48:54.870] [sharedprocess] [info] Extension installed successfully: codingyu.laravel-goto-view
+[2022-09-24 23:48:56.730] [sharedprocess] [info] Downloaded extension: wheredoesyourmindgo.gruvbox-concoctis /home/ana/.config/Code/CachedExtensionVSIXs/wheredoesyourmindgo.gruvbox-concoctis-10.30.27
+[2022-09-24 23:48:56.848] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.7c063238-d358-45e3-8818-80d8a0ba19dd: wheredoesyourmindgo.gruvbox-concoctis
+[2022-09-24 23:48:56.852] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/wheredoesyourmindgo.gruvbox-concoctis-10.30.27
+[2022-09-24 23:48:56.853] [sharedprocess] [info] Extracting completed. wheredoesyourmindgo.gruvbox-concoctis
+[2022-09-24 23:48:56.854] [sharedprocess] [info] Extension installed successfully: wheredoesyourmindgo.gruvbox-concoctis
+[2022-09-24 23:48:57.092] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/ana/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.9.0
+[2022-09-24 23:48:57.108] [sharedprocess] [info] Downloaded extension: dart-code.flutter /home/ana/.config/Code/CachedExtensionVSIXs/dart-code.flutter-3.48.0
+[2022-09-24 23:48:57.114] [sharedprocess] [info] Downloaded extension: amiralizadeh9480.laravel-extra-intellisense /home/ana/.config/Code/CachedExtensionVSIXs/amiralizadeh9480.laravel-extra-intellisense-0.6.2
+[2022-09-24 23:48:57.125] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.bae0096c-71fc-421c-a4ce-b4a592f23f01: dart-code.flutter
+[2022-09-24 23:48:57.132] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/dart-code.flutter-3.48.0
+[2022-09-24 23:48:57.134] [sharedprocess] [info] Extracting completed. dart-code.flutter
+[2022-09-24 23:48:57.134] [sharedprocess] [info] Extension installed successfully: dart-code.flutter
+[2022-09-24 23:48:57.200] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.45d1bcd2-cdb1-4c97-82e6-2d2612c947cf: amiralizadeh9480.laravel-extra-intellisense
+[2022-09-24 23:48:57.206] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.2
+[2022-09-24 23:48:57.207] [sharedprocess] [info] Extracting completed. amiralizadeh9480.laravel-extra-intellisense
+[2022-09-24 23:48:57.208] [sharedprocess] [info] Extension installed successfully: amiralizadeh9480.laravel-extra-intellisense
+[2022-09-24 23:48:57.236] [sharedprocess] [info] Downloaded extension: editorconfig.editorconfig /home/ana/.config/Code/CachedExtensionVSIXs/editorconfig.editorconfig-0.16.4
+[2022-09-24 23:48:57.453] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.4f8c57f3-c2d0-4e3e-ae80-342862ab4781: editorconfig.editorconfig
+[2022-09-24 23:48:57.455] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/editorconfig.editorconfig-0.16.4
+[2022-09-24 23:48:57.456] [sharedprocess] [info] Extracting completed. editorconfig.editorconfig
+[2022-09-24 23:48:57.456] [sharedprocess] [info] Extension installed successfully: editorconfig.editorconfig
+[2022-09-24 23:48:57.465] [sharedprocess] [info] Detected extension removed from another source editorconfig.editorconfig
+[2022-09-24 23:48:57.474] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.baa2e923-25c9-4702-81d1-b5886aed0553: esbenp.prettier-vscode
+[2022-09-24 23:48:57.480] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/esbenp.prettier-vscode-9.9.0
+[2022-09-24 23:48:57.482] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-09-24 23:48:57.483] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-09-24 23:48:57.700] [sharedprocess] [info] Detected extension installed from another source editorconfig.editorconfig
+[2022-09-24 23:48:57.755] [sharedprocess] [info] Downloaded extension: dart-code.dart-code /home/ana/.config/Code/CachedExtensionVSIXs/dart-code.dart-code-3.48.4
+[2022-09-24 23:48:58.043] [sharedprocess] [info] Downloaded extension: mikestead.dotenv /home/ana/.config/Code/CachedExtensionVSIXs/mikestead.dotenv-1.0.1
+[2022-09-24 23:48:58.044] [sharedprocess] [info] Downloaded extension: naoray.laravel-goto-components /home/ana/.config/Code/CachedExtensionVSIXs/naoray.laravel-goto-components-1.2.0
+[2022-09-24 23:48:58.055] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.d6b5d5a3-3838-41e8-a065-d4dafbb71a8a: naoray.laravel-goto-components
+[2022-09-24 23:48:58.059] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.ecb46228-2b9c-4eab-8938-6f91ca175292: mikestead.dotenv
+[2022-09-24 23:48:58.062] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/naoray.laravel-goto-components-1.2.0
+[2022-09-24 23:48:58.062] [sharedprocess] [info] Extracting completed. naoray.laravel-goto-components
+[2022-09-24 23:48:58.063] [sharedprocess] [info] Extension installed successfully: naoray.laravel-goto-components
+[2022-09-24 23:48:58.068] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/mikestead.dotenv-1.0.1
+[2022-09-24 23:48:58.070] [sharedprocess] [info] Extracting completed. mikestead.dotenv
+[2022-09-24 23:48:58.071] [sharedprocess] [info] Extension installed successfully: mikestead.dotenv
+[2022-09-24 23:48:58.079] [sharedprocess] [info] Downloaded extension: jdinhlife.gruvbox /home/ana/.config/Code/CachedExtensionVSIXs/jdinhlife.gruvbox-1.8.0
+[2022-09-24 23:48:58.115] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client /home/ana/.config/Code/CachedExtensionVSIXs/bmewburn.vscode-intelephense-client-1.8.2
+[2022-09-24 23:48:58.154] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.df3ec355-21ae-4150-aad0-41309d492fa5: jdinhlife.gruvbox
+[2022-09-24 23:48:58.163] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/jdinhlife.gruvbox-1.8.0
+[2022-09-24 23:48:58.165] [sharedprocess] [info] Extracting completed. jdinhlife.gruvbox
+[2022-09-24 23:48:58.166] [sharedprocess] [info] Extension installed successfully: jdinhlife.gruvbox
+[2022-09-24 23:48:58.279] [sharedprocess] [info] Downloaded extension: sainnhe.gruvbox-material /home/ana/.config/Code/CachedExtensionVSIXs/sainnhe.gruvbox-material-6.5.1
+[2022-09-24 23:48:58.421] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.da5a8dec-ea96-4e94-8a5f-16c61a4fac8a: sainnhe.gruvbox-material
+[2022-09-24 23:48:58.429] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/sainnhe.gruvbox-material-6.5.1
+[2022-09-24 23:48:58.430] [sharedprocess] [info] Extracting completed. sainnhe.gruvbox-material
+[2022-09-24 23:48:58.431] [sharedprocess] [info] Extension installed successfully: sainnhe.gruvbox-material
+[2022-09-24 23:48:58.639] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /home/ana/.config/Code/CachedExtensionVSIXs/naumovs.color-highlight-2.5.0
+[2022-09-24 23:48:58.813] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /home/ana/.config/Code/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.22.1
+[2022-09-24 23:48:58.818] [sharedprocess] [info] Downloaded extension: jonathanharty.gruvbox-material-icon-theme /home/ana/.config/Code/CachedExtensionVSIXs/jonathanharty.gruvbox-material-icon-theme-1.1.5
+[2022-09-24 23:48:58.868] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.13dbd6ea-c055-4c56-994b-3b9fe1d55732: bmewburn.vscode-intelephense-client
+[2022-09-24 23:48:58.880] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/bmewburn.vscode-intelephense-client-1.8.2
+[2022-09-24 23:48:58.923] [sharedprocess] [info] Extracting completed. bmewburn.vscode-intelephense-client
+[2022-09-24 23:48:58.924] [sharedprocess] [info] Extension installed successfully: bmewburn.vscode-intelephense-client
+[2022-09-24 23:48:58.926] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /home/ana/.config/Code/CachedExtensionVSIXs/eamodio.gitlens-12.2.2
+[2022-09-24 23:48:58.929] [sharedprocess] [info] Downloaded extension: onecentlin.laravel-extension-pack /home/ana/.config/Code/CachedExtensionVSIXs/onecentlin.laravel-extension-pack-1.1.0
+[2022-09-24 23:48:58.929] [sharedprocess] [info] Downloaded extension: cjhowe7.laravel-blade /home/ana/.config/Code/CachedExtensionVSIXs/cjhowe7.laravel-blade-1.1.2
+[2022-09-24 23:48:58.948] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.5ee21093-a4ce-4d7b-9798-6ccc14ea8071: onecentlin.laravel-extension-pack
+[2022-09-24 23:48:58.951] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.04431728-78d0-412e-ac24-f0b520b3ae58: cjhowe7.laravel-blade
+[2022-09-24 23:48:58.953] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/onecentlin.laravel-extension-pack-1.1.0
+[2022-09-24 23:48:58.955] [sharedprocess] [info] Extracting completed. onecentlin.laravel-extension-pack
+[2022-09-24 23:48:58.956] [sharedprocess] [info] Extension installed successfully: onecentlin.laravel-extension-pack
+[2022-09-24 23:48:58.958] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/cjhowe7.laravel-blade-1.1.2
+[2022-09-24 23:48:58.959] [sharedprocess] [info] Extracting completed. cjhowe7.laravel-blade
+[2022-09-24 23:48:58.960] [sharedprocess] [info] Extension installed successfully: cjhowe7.laravel-blade
+[2022-09-24 23:48:59.110] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.727c579a-ae09-46ef-b899-9ce994e2d3ff: naumovs.color-highlight
+[2022-09-24 23:48:59.115] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/naumovs.color-highlight-2.5.0
+[2022-09-24 23:48:59.117] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.3848ac85-08a6-43c0-bddb-4bb9ff837331: ms-azuretools.vscode-docker
+[2022-09-24 23:48:59.117] [sharedprocess] [info] Extracting completed. naumovs.color-highlight
+[2022-09-24 23:48:59.118] [sharedprocess] [info] Extension installed successfully: naumovs.color-highlight
+[2022-09-24 23:48:59.143] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/ms-azuretools.vscode-docker-1.22.1
+[2022-09-24 23:48:59.216] [sharedprocess] [info] Extracting completed. ms-azuretools.vscode-docker
+[2022-09-24 23:48:59.218] [sharedprocess] [info] Extension installed successfully: ms-azuretools.vscode-docker
+[2022-09-24 23:48:59.404] [sharedprocess] [info] Downloaded extension: mhutchie.git-graph /home/ana/.config/Code/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[2022-09-24 23:48:59.504] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.caa1923e-2abf-4d4c-8666-7aa30a811c22: mhutchie.git-graph
+[2022-09-24 23:48:59.513] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/mhutchie.git-graph-1.30.0
+[2022-09-24 23:48:59.515] [sharedprocess] [info] Extracting completed. mhutchie.git-graph
+[2022-09-24 23:48:59.516] [sharedprocess] [info] Extension installed successfully: mhutchie.git-graph
+[2022-09-24 23:48:59.724] [sharedprocess] [info] Downloaded extension: github.copilot /home/ana/.config/Code/CachedExtensionVSIXs/github.copilot-1.46.6822
+[2022-09-24 23:48:59.738] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.6696f892-f8f6-4517-aab1-ee1a041afdb3: eamodio.gitlens
+[2022-09-24 23:48:59.756] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/eamodio.gitlens-12.2.2
+[2022-09-24 23:48:59.761] [sharedprocess] [info] Extracting completed. eamodio.gitlens
+[2022-09-24 23:48:59.764] [sharedprocess] [info] Extension installed successfully: eamodio.gitlens
+[2022-09-24 23:48:59.832] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.2d3f55a8-769d-4faa-8312-fec589cbbaa7: github.copilot
+[2022-09-24 23:48:59.837] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/github.copilot-1.46.6822
+[2022-09-24 23:48:59.839] [sharedprocess] [info] Extracting completed. github.copilot
+[2022-09-24 23:48:59.840] [sharedprocess] [info] Extension installed successfully: github.copilot
+[2022-09-24 23:49:00.096] [sharedprocess] [info] Downloaded extension: ritwickdey.liveserver /home/ana/.config/Code/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.9
+[2022-09-24 23:49:00.168] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.ef9fbd65-0226-446a-aac9-c6bb0e06ed23: jonathanharty.gruvbox-material-icon-theme
+[2022-09-24 23:49:00.174] [sharedprocess] [info] Downloaded extension: shufo.vscode-blade-formatter /home/ana/.config/Code/CachedExtensionVSIXs/shufo.vscode-blade-formatter-0.18.0
+[2022-09-24 23:49:00.176] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/jonathanharty.gruvbox-material-icon-theme-1.1.5
+[2022-09-24 23:49:00.178] [sharedprocess] [info] Extracting completed. jonathanharty.gruvbox-material-icon-theme
+[2022-09-24 23:49:00.179] [sharedprocess] [info] Extension installed successfully: jonathanharty.gruvbox-material-icon-theme
+[2022-09-24 23:49:03.746] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.02d1f2f2-0b2c-4c64-a40d-d6c31731b783: ritwickdey.liveserver
+[2022-09-24 23:49:03.754] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/ritwickdey.liveserver-5.7.9
+[2022-09-24 23:49:03.755] [sharedprocess] [info] Extracting completed. ritwickdey.liveserver
+[2022-09-24 23:49:03.756] [sharedprocess] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-09-24 23:49:05.052] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.72169145-4fd0-4502-b15a-82580c7fb7e2: shufo.vscode-blade-formatter
+[2022-09-24 23:49:05.059] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/shufo.vscode-blade-formatter-0.18.0
+[2022-09-24 23:49:05.061] [sharedprocess] [info] Extracting completed. shufo.vscode-blade-formatter
+[2022-09-24 23:49:05.062] [sharedprocess] [info] Extension installed successfully: shufo.vscode-blade-formatter
+[2022-09-24 23:49:09.682] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.f39a4a2b-c2fb-4693-b0c6-102f674baef0: dart-code.dart-code
+[2022-09-24 23:49:09.690] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/dart-code.dart-code-3.48.4
+[2022-09-24 23:49:09.692] [sharedprocess] [info] Extracting completed. dart-code.dart-code
+[2022-09-24 23:49:09.693] [sharedprocess] [info] Extension installed successfully: dart-code.dart-code
+[2022-09-24 23:49:25.897] [sharedprocess] [info] Uninstalling extension: dart-code.dart-code@3.48.4
+[2022-09-24 23:49:25.916] [sharedprocess] [error] Failed to uninstall extension: dart-code.dart-code@3.48.4 Cannot uninstall 'Dart' extension. 'Flutter' extension depends on this.
+[2022-09-24 23:49:29.388] [sharedprocess] [info] Uninstalling extension: mikestead.dotenv@1.0.1
+[2022-09-24 23:49:29.543] [sharedprocess] [info] Detected extension removed from another source mikestead.dotenv
+[2022-09-24 23:49:29.824] [sharedprocess] [info] Successfully uninstalled extension: mikestead.dotenv@1.0.1
+[2022-09-24 23:49:31.485] [sharedprocess] [info] Uninstalling extension: editorconfig.editorconfig@0.16.4
+[2022-09-24 23:49:31.924] [sharedprocess] [info] Successfully uninstalled extension: editorconfig.editorconfig@0.16.4
+[2022-09-24 23:49:33.494] [sharedprocess] [info] Uninstalling extension: dart-code.flutter@3.48.0
+[2022-09-24 23:49:33.934] [sharedprocess] [info] Successfully uninstalled extension: dart-code.flutter@3.48.0
+[2022-09-24 23:49:46.810] [sharedprocess] [info] Uninstalling extension: shufo.vscode-blade-formatter@0.18.0
+[2022-09-24 23:49:47.286] [sharedprocess] [info] Successfully uninstalled extension: shufo.vscode-blade-formatter@0.18.0
+[2022-09-24 23:49:49.725] [sharedprocess] [info] Uninstalling extension: onecentlin.laravel-extension-pack@1.1.0
+[2022-09-24 23:49:49.748] [sharedprocess] [info] Uninstalling extension: amiralizadeh9480.laravel-extra-intellisense@0.6.2
+[2022-09-24 23:49:49.748] [sharedprocess] [info] Uninstalling extension: codingyu.laravel-goto-view@1.3.7
+[2022-09-24 23:49:49.749] [sharedprocess] [info] Uninstalling extension: naoray.laravel-goto-components@1.2.0
+[2022-09-24 23:49:50.214] [sharedprocess] [info] Successfully uninstalled extension: onecentlin.laravel-extension-pack@1.1.0
+[2022-09-24 23:49:50.280] [sharedprocess] [info] Successfully uninstalled extension: amiralizadeh9480.laravel-extra-intellisense@0.6.2
+[2022-09-24 23:49:50.280] [sharedprocess] [info] Successfully uninstalled extension: codingyu.laravel-goto-view@1.3.7
+[2022-09-24 23:49:50.350] [sharedprocess] [info] Successfully uninstalled extension: naoray.laravel-goto-components@1.2.0
+[2022-09-24 23:49:56.599] [sharedprocess] [info] Uninstalling extension: cjhowe7.laravel-blade@1.1.2
+[2022-09-24 23:49:57.017] [sharedprocess] [info] Successfully uninstalled extension: cjhowe7.laravel-blade@1.1.2
+[2022-09-24 23:50:02.052] [sharedprocess] [info] Uninstalling extension: bmewburn.vscode-intelephense-client@1.8.2
+[2022-09-24 23:50:02.489] [sharedprocess] [info] Successfully uninstalled extension: bmewburn.vscode-intelephense-client@1.8.2
+[2022-09-24 23:50:11.436] [sharedprocess] [info] Worker process with pid 16473 terminated normally (type: fileWatcher, window: 1).
+[2022-09-24 23:50:12.232] [sharedprocess] [info] Starting worker process with pid 17163 (type: fileWatcher, window: 1).
+[2022-09-24 23:50:20.243] [sharedprocess] [info] Uninstalling extension: dart-code.dart-code@3.48.4
+[2022-09-24 23:50:20.710] [sharedprocess] [info] Successfully uninstalled extension: dart-code.dart-code@3.48.4

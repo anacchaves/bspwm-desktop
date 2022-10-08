@@ -1,0 +1,35 @@
+["INFO" - 1:12:40 PM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 1:12:40 PM] Extension Version: 9.9.0.
+["INFO" - 1:36:11 PM] Formatting file:///home/ana/projects/vue3-basics/index.html
+["INFO" - 1:36:11 PM] Using ignore file (if present) at /home/ana/projects/vue3-basics/.prettierignore
+["INFO" - 1:36:11 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 1:36:11 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, falling back to VS Code configuration
+["INFO" - 1:36:11 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "useTabs": false,
+  "vueIndentScriptAndStyle": false,
+  "filepath": "/home/ana/projects/vue3-basics/index.html",
+  "parser": "html"
+}
+["INFO" - 1:36:11 PM] Formatting completed in 115ms.

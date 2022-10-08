@@ -1,0 +1,46 @@
+[2022-09-24 23:47:27.696] [exthost] [info] Extension host with pid 16437 started
+[2022-09-24 23:47:27.696] [exthost] [info] Skipping acquiring lock for /home/ana/.config/Code/User/workspaceStorage/ed88220b4546e956b92eae4f8b84a0c6.
+[2022-09-24 23:47:27.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-09-24 23:47:27.846] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-24 23:47:27.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-09-24 23:47:27.852] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-24 23:47:27.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-24 23:47:27.906] [exthost] [info] Eager extensions activated
+[2022-09-24 23:47:27.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:47:27.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:47:27.941] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-09-24 23:47:30.479] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-09-24 23:48:56.989] [exthost] [info] ExtensionService#_doActivateExtension wheredoesyourmindgo.gruvbox-concoctis, startup: false, activationEvent: '*'
+[2022-09-24 23:48:57.639] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: '*'
+[2022-09-24 23:48:57.835] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-09-24 23:48:57.911] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:48:58.505] [exthost] [info] ExtensionService#_doActivateExtension sainnhe.gruvbox-material, startup: false, activationEvent: '*'
+[2022-09-24 23:48:59.199] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: '*'
+[2022-09-24 23:48:59.602] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: false, activationEvent: '*'
+[2022-09-24 23:49:00.898] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:49:01.200] [exthost] [info] ExtensionService#_doActivateExtension JonathanHarty.gruvbox-material-icon-theme, startup: false, activationEvent: '*'
+[2022-09-24 23:49:03.839] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:50:11.391] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-24 23:50:11.416] [exthost] [info] Extension host with pid 16437 exiting with code 0
+[2022-09-24 23:50:13.236] [exthost] [info] Extension host with pid 17162 started
+[2022-09-24 23:50:13.236] [exthost] [info] Skipping acquiring lock for /home/ana/.config/Code/User/workspaceStorage/ed88220b4546e956b92eae4f8b84a0c6.
+[2022-09-24 23:50:13.288] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-09-24 23:50:13.302] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-24 23:50:13.304] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-24 23:50:13.305] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-24 23:50:13.307] [exthost] [info] ExtensionService#_doActivateExtension JonathanHarty.gruvbox-material-icon-theme, startup: true, activationEvent: '*'
+[2022-09-24 23:50:13.314] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-09-24 23:50:13.323] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-09-24 23:50:13.327] [exthost] [info] ExtensionService#_doActivateExtension wheredoesyourmindgo.gruvbox-concoctis, startup: true, activationEvent: '*'
+[2022-09-24 23:50:13.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-24 23:50:13.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-24 23:50:13.424] [exthost] [info] Eager extensions activated
+[2022-09-24 23:50:13.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:50:13.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:50:13.440] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:50:13.469] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-09-24 23:50:13.476] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:50:13.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-09-24 23:50:13.595] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-24 23:50:47.556] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-24 23:50:47.589] [exthost] [info] Extension host with pid 17162 exiting with code 0

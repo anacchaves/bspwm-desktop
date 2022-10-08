@@ -1,0 +1,15 @@
+[2022-09-28 19:32:19.242] [sharedprocess] [info] Starting worker process with pid 4862 (type: fileWatcher, window: 1).
+[2022-09-28 19:32:21.714] [sharedprocess] [info] Getting Manifest... github.copilot
+[2022-09-28 19:32:22.407] [sharedprocess] [info] Installing extension: github.copilot
+[2022-09-28 19:32:23.955] [sharedprocess] [info] Downloaded extension: github.copilot /home/ana/.config/Code/CachedExtensionVSIXs/github.copilot-1.47.6882
+[2022-09-28 19:32:24.032] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.02dcd2a5-e287-4b88-b049-2521731deea0: github.copilot
+[2022-09-28 19:32:24.036] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/github.copilot-1.47.6882
+[2022-09-28 19:32:24.037] [sharedprocess] [info] Extracting completed. github.copilot
+[2022-09-28 19:32:24.042] [sharedprocess] [info] Extension installed successfully: github.copilot
+[2022-09-28 19:34:46.749] [sharedprocess] [info] Getting Manifest... tonybaloney.vscode-pets
+[2022-09-28 19:34:46.755] [sharedprocess] [info] Installing extension: tonybaloney.vscode-pets
+[2022-09-28 19:34:48.917] [sharedprocess] [info] Downloaded extension: tonybaloney.vscode-pets /home/ana/.config/Code/CachedExtensionVSIXs/tonybaloney.vscode-pets-1.13.1
+[2022-09-28 19:34:49.132] [sharedprocess] [info] Extracted extension to /home/ana/.vscode/extensions/.c0dce067-756a-40bb-8ec2-f247b6359ed4: tonybaloney.vscode-pets
+[2022-09-28 19:34:49.137] [sharedprocess] [info] Renamed to /home/ana/.vscode/extensions/tonybaloney.vscode-pets-1.13.1
+[2022-09-28 19:34:49.138] [sharedprocess] [info] Extracting completed. tonybaloney.vscode-pets
+[2022-09-28 19:34:49.140] [sharedprocess] [info] Extension installed successfully: tonybaloney.vscode-pets

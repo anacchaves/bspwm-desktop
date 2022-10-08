@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>vue 3 basics</title>
+    <style>
+      .box {
+        background-color: purple;
+        height: 200px;
+        width: 200px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      {{ greeting }}
+      <input v-model="greeting" />
+      <hr>
+      <div v-if="isVisible" class="box"></div>
+    </div>
+    
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script>
+      let app = Vue.createApp({
+        data() {
+          return {
+            greeting: "hello vue",
+            isVisible: true,
+          };
+        },
+      });
+      app.mount("#app");
+    </script>
+  </body>
+</html>
